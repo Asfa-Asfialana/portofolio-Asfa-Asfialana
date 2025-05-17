@@ -21,10 +21,6 @@ Thank you !
 
 
 
-<p align="left">Play game with me !</p>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asfa-asfialana/Asfa-asfialana/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asfa-asfialana/Asfa-asfialana/output/pacman-contribution-graph.svg">
