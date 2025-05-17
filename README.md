@@ -1,7 +1,11 @@
 # portofolio-Asfa-Asfialana
 ---
-##### DIV Penyuluh Perkebunan Presisi Politeknik Pembangunan Pertanian Medan
+#### Hello Everyone! I'm Asfa Asfialana, a graduate majoring in precision plantation extension from the Medan Agricultural Development Polytechnic.
+🌱 Beginner programmer exploring the world of code with VS Code.
+💻 Passionate about technology, especially in eco-friendly and sustainable solutions.
+🔍 Always learning, always curious.
+🚀 Let’s build a greener future through code!
 ---
 ##### Kalau mau lihat CV saya, anda bisa mengakses disini..
-![CV (https://github.com/Asfa-Asfialana/portofolio-Asfa-Asfialana/blob/main/CV-PDF/CURRICULUM%20VITAE%20ASFA%202025.pdf)]
+![CV]
 TERIMAKA KASIH
