@@ -19,3 +19,15 @@ Thank you !
 ##### Connect With Me 
 ![https://www.instagram.com/as.asfialn/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://linkedin.com/in/asfaasfialana86/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+</div>
+
+###
+
