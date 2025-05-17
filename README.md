@@ -18,3 +18,16 @@ Thank you !
 ---
 ##### Connect With Me 
 ![https://instagram.com/as.asfialn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://linkedin.com/in/asfaasfialana86](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
+<p align="left">Play game with me !</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asfa-asfialana/Asfa-asfialana/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asfa-asfialana/Asfa-asfialana/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Asfa-asfialana/Asfa-asfialana/output/pacman-contribution-graph.svg">
+</picture>
+
+###
