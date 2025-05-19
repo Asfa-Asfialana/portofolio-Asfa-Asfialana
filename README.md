@@ -14,9 +14,14 @@
 ---
 ##### 👋 Want to know more about me? Take a look at my CV here ..
 ![CV](https://github.com/Asfa-Asfialana/portofolio-Asfa-Asfialana/tree/main/CV-PDF)
-Thank you !
 ---
-##### Connect With Me ..
 
-![https://www.instagram.com/as.asfialn/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white), ![https://www.linkedin.com/in/asfaasfialana86/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AS.ASFIALN) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/asfaasfialana86/) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=asfa-asfialana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=asfa-asfialana&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asfa-asfialana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
