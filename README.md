@@ -1,6 +1,6 @@
 # Portofolio-Asfa-Asfialana
 ---
-![background](https://github.com/Asfa-Asfialana/portofolio-Asfa-Asfialana/blob/main/background.gif)
+![welcome](https://github.com/Asfa-Asfialana/portofolio-Asfa-Asfialana/blob/main/welcome.gif))
 ---
 ##### Hello Everyone! I'm Asfa Asfialana, a graduate majoring in precision plantation extension from the Medan Agricultural Development Polytechnic.
 🌱 Beginner programmer exploring the world of code
