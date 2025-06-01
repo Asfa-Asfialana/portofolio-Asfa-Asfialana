@@ -4,57 +4,34 @@
 ---
 ##### Hello Everyone! I'm Asfa Asfialana, a graduate majoring in precision plantation extension from the Medan Agricultural Development Polytechnic.
 I am a beginner in programming, data analysis, and coding. My job in 2024 will be as a digital village cadre for the smart village program, which leads to the awareness that knowing a lot about technology is very important. As a community empowerment worker, I fully understand that the community in the village does not use technology much to assist their daily activities, such as trading, farming, or even in governmental affairs. That is why I am very enthusiastic to learn about programming, coding, and data analysis or even to create a project that can help every village community to develop and make their work easier.
-
-# 📡 Digital Technology Awareness in Rural Indonesia
-
-This repository aims to document and analyze the underlying causes behind the limited awareness and understanding of digital technology among rural communities in Indonesia. It also provides real data and visual evidence from credible sources.
-
----
-
-## 📌 Overview
-
 Despite efforts to improve national digital transformation, rural areas in Indonesia face significant challenges in accessing and utilizing technology for everyday needs and village-level development. This issue is influenced by multiple socioeconomic and infrastructural factors.
-
----
-
-## 📉 1. Limited Internet Access
-
+#### 📉 1. Limited Internet Access
 Although the national internet penetration reached 79.5% in 2024, rural areas remain underserved:
-
 - Only **35.90%** of households in rural areas accessed the internet in the past three months.
 - Compared to **64.10%** in urban areas.
 - Some remote provinces report less than **1%** penetration.
----
-## 📚 2. Low Digital Literacy
-
+#### 📚 2. Low Digital Literacy
 The 2023 Digital Literacy Index (DLI):
-
 | Area   | Index Score |
 |--------|-------------|
 | Rural  | 3.542       |
 | Urban  | 3.540       |
-
 - Rural areas lag in **digital culture** and **ethics** components.
 - Many users are unable to assess the credibility of online information or use digital tools responsibly.
----
-## 💰 3. Economic Constraints
-
+#### 💰 3. Economic Constraints
 - Most rural farmers have only completed **elementary education**.
 - **86.96%** of adopters and **98.15%** of non-adopters lack access to **formal credit**.
 - Cost barriers prevent purchase of smartphones, data plans, and digital infrastructure.
----
-## 🧓 4. Generational & Cultural Resistance
+#### 🧓 4. Generational & Cultural Resistance
 - Many older residents are unfamiliar with or resistant to new technologies.
 - Traditional practices are often seen as sufficient, leading to a lack of motivation to adopt digital tools.
 - Trust issues related to online transactions also inhibit adoption.
----
-## 🏫 5. Inadequate Educational Support
+#### 🏫 5. Inadequate Educational Support
 - Many rural schools do not teach digital literacy as a core subject.
 - Teachers often lack training in tech-based pedagogy.
 - Youth in villages are left behind in terms of digital competence.
 ---
-## 📊 Summary Table
-
+#### 📊 Summary Table
 | Factor                         | Impact on Rural Communities                               |
 |-------------------------------|------------------------------------------------------------|
 | Internet Access               | Limited connectivity hampers information access           |
@@ -63,6 +40,7 @@ The 2023 Digital Literacy Index (DLI):
 | Cultural/Generational Barrier | Resistance to adopting unfamiliar technology              |
 | Educational Gaps              | Lack of digital skills from school level                  |
 ---
+In my opinion, there are 4 important things that must be possessed, namely digital skills, digital culture, digital ethics, and digital security. This is aimed at a bright and smart future.
 
 
 
