@@ -40,7 +40,9 @@ The 2023 Digital Literacy Index (DLI):
 | Cultural/Generational Barrier | Resistance to adopting unfamiliar technology              |
 | Educational Gaps              | Lack of digital skills from school level                  |
 ---
-In my opinion, there are 4 important things that must be possessed, namely digital skills, digital culture, digital ethics, and digital security. This is aimed at a bright and smart future.
+![smart_future]
+In the future, every household will utilize technology for everything within it. The ability to create technology must start now by learning technology subjects such as programming, coding, and data analysis. In my opinion, there are four important things that must be possessed: digital skills, digital culture, digital ethics, and digital security. This aims for a bright and smart future.
+
 
 
 
