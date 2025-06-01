@@ -41,6 +41,8 @@ The 2023 Digital Literacy Index (DLI):
 | Educational Gaps              | Lack of digital skills from school level                  |
 ---
 ![smart_future](https://github.com/Asfa-Asfialana/portofolio-Asfa-Asfialana/blob/main/smart_future.jpg)
+
+
 In the future, every household will utilize technology for everything within it. The ability to create technology must start now by learning technology subjects such as programming, coding, and data analysis. In my opinion, there are four important things that must be possessed: digital skills, digital culture, digital ethics, and digital security. This aims for a bright and smart future.
 
 ### About Me
