@@ -24,12 +24,7 @@ Although the national internet penetration reached 79.5% in 2024, rural areas re
 - Only **35.90%** of households in rural areas accessed the internet in the past three months.
 - Compared to **64.10%** in urban areas.
 - Some remote provinces report less than **1%** penetration.
-
-![Internet Access Disparity](https://www.bps.go.id/images/infografis/Internet_Access_Disparity.png)  
-*Source: BPS (Statistics Indonesia)*
-
 ---
-
 ## 📚 2. Low Digital Literacy
 
 The 2023 Digital Literacy Index (DLI):
@@ -41,45 +36,23 @@ The 2023 Digital Literacy Index (DLI):
 
 - Rural areas lag in **digital culture** and **ethics** components.
 - Many users are unable to assess the credibility of online information or use digital tools responsibly.
-
-![Digital Literacy Index](https://eudl.eu/images/dli_comparison_chart.png)  
-*Source: EUDL Research*
-
 ---
-
 ## 💰 3. Economic Constraints
 
 - Most rural farmers have only completed **elementary education**.
 - **86.96%** of adopters and **98.15%** of non-adopters lack access to **formal credit**.
 - Cost barriers prevent purchase of smartphones, data plans, and digital infrastructure.
-
 ---
-
 ## 🧓 4. Generational & Cultural Resistance
-
 - Many older residents are unfamiliar with or resistant to new technologies.
 - Traditional practices are often seen as sufficient, leading to a lack of motivation to adopt digital tools.
 - Trust issues related to online transactions also inhibit adoption.
-
 ---
-
 ## 🏫 5. Inadequate Educational Support
-
 - Many rural schools do not teach digital literacy as a core subject.
 - Teachers often lack training in tech-based pedagogy.
 - Youth in villages are left behind in terms of digital competence.
-
 ---
-
-## 🏛️ 6. Weak Government Implementation
-
-- Although national programs exist, many rural areas do not benefit due to:
-  - Slow rollout
-  - Inadequate funding
-  - One-size-fits-all strategies
-
----
-
 ## 📊 Summary Table
 
 | Factor                         | Impact on Rural Communities                               |
@@ -89,42 +62,7 @@ The 2023 Digital Literacy Index (DLI):
 | Economic Constraints          | Cannot afford digital infrastructure                      |
 | Cultural/Generational Barrier | Resistance to adopting unfamiliar technology              |
 | Educational Gaps              | Lack of digital skills from school level                  |
-| Policy & Governance           | Poor implementation of inclusive tech programs            |
-
 ---
-
-## 📷 Visual Summary
-
-![Tech Adoption Barriers in Rural Areas](https://www.example.com/factors_tech_adoption_rural_indonesia.png)  
-*(Image placeholder – replace with your own diagram or infographic)*
-
----
-
-## 📎 Sources
-
-- BPS Indonesia – [https://bps.go.id](https://bps.go.id)
-- EUDL Research – [https://eudl.eu](https://eudl.eu)
-- UGM Equitas Journal – [https://equitas.feb.ugm.ac.id](https://equitas.feb.ugm.ac.id)
-- ProQuest, ResearchGate, and other academic journals
-
----
-
-## 💡 Recommendation
-
-To close the digital divide, a coordinated approach is necessary:
-
-- Invest in rural internet infrastructure.
-- Strengthen local education with digital literacy.
-- Provide micro-financing or credit access for devices.
-- Tailor training programs to village needs and languages.
-- Encourage intergenerational learning and mentorship.
-
----
-
-## 📁 License
-
-This project is licensed under the MIT License.  
-Feel free to use, modify, and contribute.
 
 
 
