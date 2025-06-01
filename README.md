@@ -1,6 +1,6 @@
 # Portofolio-Asfa-Asfialana
 ---
-
+![new_era](https://github.com/Asfa-Asfialana/portofolio-Asfa-Asfialana/blob/main/new_era.gif)
 ---
 ##### Hello Everyone! I'm Asfa Asfialana, a graduate majoring in precision plantation extension from the Medan Agricultural Development Polytechnic.
 I am a beginner in programming, data analysis, and coding. My job in 2024 will be as a digital village cadre for the smart village program, which leads to the awareness that knowing a lot about technology is very important. As a community empowerment worker, I fully understand that the community in the village does not use technology much to assist their daily activities, such as trading, farming, or even in governmental affairs. That is why I am very enthusiastic to learn about programming, coding, and data analysis or even to create a project that can help every village community to develop and make their work easier.
