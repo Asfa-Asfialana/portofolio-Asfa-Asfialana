@@ -30,7 +30,8 @@ And since then, And since then I have been trying to learn everything about codi
 
 Outside of coding, I am writing a story on Wattpad and I host a podcast where I talk about love and life.
 
-🎧 **Check out my podcast here**: [My Podcast](https://link-to-your-podcast.com)
+🎙️🎧 **Check out my podcast here**: [![Spotify](https://img.shields.io/badge/Spotify-Podcast-green?logo=spotify)](https://open.spotify.com/show/3SG2l8nKttjbQtdQZ37ig2?si=78948f28649148b8)
+
 
 It’s my way of sharing ideas, talking to amazing people, and learning out loud !
 
@@ -41,4 +42,17 @@ It’s my way of sharing ideas, talking to amazing people, and learning out loud
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AS.ASFIALN) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/asfaasfialana86/) 
+<div align="left">
+  <a href="https://www.youtube.com/@Dailysweetjbi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/as.asfialn/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/asfaasfialana86/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+</div>
