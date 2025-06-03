@@ -1,5 +1,6 @@
 # Portofolio-Asfa-Asfialana
 ---
+# 👋 Halo, saya [Asfa]!
 ![new_era](https://github.com/Asfa-Asfialana/portofolio-Asfa-Asfialana/blob/main/new_era.gif)
 ---
 ##### Hello Everyone! I'm Asfa Asfialana, a graduate majoring in precision plantation extension from the Medan Agricultural Development Polytechnic.
