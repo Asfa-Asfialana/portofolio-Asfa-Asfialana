@@ -1,7 +1,7 @@
 # Portofolio-Asfa-Asfialana
 ---
 # 👋 Hi there, I'm Asfa !
-![new_era](https://github.com/Asfa-Asfialana/portofolio-Asfa-Asfialana/blob/main/new_era.gif)
+![ASFA_1](https://github.com/Asfa-Asfialana/portofolio-Asfa-Asfialana/blob/main/ASFA_1.jpg)
 ---
 
 Welcome to my GitHub! I’m a beginner in coding. I'm a graduate majoring in precision plantation extension from the Medan Agricultural Development Polytechnic, and a lifelong learner who’s passionate about creating things that matter.
