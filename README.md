@@ -30,6 +30,8 @@ And since then, And since then I have been trying to learn everything about codi
 
 Outside of coding, I am writing a story on Wattpad and I host a podcast where I talk about love and life.
 
+📖 **Check out my writing on Wattpad**: [![Wattpad](https://img.shields.io/badge/Wattpad-Profile-orange?logo=wattpad)](https://www.wattpad.com/user/AsfaAspia)
+
 🎙️🎧 **Check out my podcast here**: [![Spotify](https://img.shields.io/badge/Spotify-Podcast-green?logo=spotify)](https://open.spotify.com/show/3SG2l8nKttjbQtdQZ37ig2?si=78948f28649148b8)
 
 
